@@ -1,0 +1,16 @@
+h1, h6 {
+    text-align: center;
+    color: white;
+}
+h1{
+    font-size: 60px
+}
+footer {
+    padding: 0px;
+    background-color: lightgray;
+    border: 1mm gray inset;
+}
+
+.jumbotron, .btn, footer {
+background-color: navy;
+}
